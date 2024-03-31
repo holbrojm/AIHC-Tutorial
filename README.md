@@ -4,8 +4,10 @@
 Instructions:
 
 1) Install requirements.txt (if necessary)
-2) Open Tutorial.ipynb in jupyter notebook.
-3) Run to completion. All data is in the repo.
+2) Self-Learning Tutorial.pptx 
+3) Open Tutorial.ipynb in jupyter notebook.
+4) Run to completion. All data is in the repo.
+5) Walk through jupyter notebook with powerpoint as a supplement.
 
 
 Please note this data is NOT real patient data which is why it is available on github. 
